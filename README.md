@@ -55,4 +55,3 @@ You can use the image from your private registry or build it yourself.
 Example private registry image:
 
 ```text
-myregistry.serverteck.xyz/embyvision-ocr-gpu:latest
